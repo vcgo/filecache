@@ -1,6 +1,6 @@
 # filecache
 
-A filecache used directly with default setting. Based on —— https://github.com/huntsman-li/go-cache
+A golang filecache used directly with default setting. Based on —— https://github.com/huntsman-li/go-cache
 
 ## How To Use
 
